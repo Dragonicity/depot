@@ -27,3 +27,14 @@ en:
       questions: "Questions"
       news: "News"
       contact: "Contact"
+
+  carts:
+    cart:
+      title:  "Your Cart"
+      empty: "Empty Cart"
+      checkout: "Checkout"
+
+  store:
+    index:
+      title_html: "Your Pragmatic Catalog"
+      add_html: "Add to Cart"
